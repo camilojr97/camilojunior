@@ -21,7 +21,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+/*Holy guacamole!*/
 .devicons-git:before {
   content: "\e602";
 }
